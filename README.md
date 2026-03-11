@@ -6,7 +6,7 @@
 name: Avril Leong
 education: Singapore Institute of Technology (SIT)
 role: Year 1 Information Technology Student
-interests: [Data Analytics, Data Engineering, Software Development]
+interests: [Data Analytics, Data Engineering, Artificial Intelligence]
 location: Singapore
 
 Fun Facts:
