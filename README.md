@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Avril Leong 👋
 
-<!--
-**avril-leong/avril-leong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Year 1 student at the **Singapore Institute of Technology (SIT)**, studying Information Technology. I enjoy building things, solving problems, and learning how technology can make life better.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use
+
+**Languages**
+Python · R · Java · PHP · C · HTML · CSS · JavaScript
+
+**Frameworks & Libraries**
+Quarto · Pandas · Spring
+
+**Tools & Platforms**
+Git · GitHub · VS Code · Tableau · MySQL · PowerBI
+
+---
+
+## 📬 How to Reach Me
+
+- **LinkedIn:** [linkedin.com/in/avril-leong](https://www.linkedin.com/in/avril-leong/)
+
+---
+
+*Always learning, always building.*
