@@ -4,15 +4,22 @@
 
 ```yaml
 name: Avril Leong
-education: Singapore Institute of Technology (SIT)
-role: Year 1 Information Technology Student
-interests: [Data Analytics, Data Engineering, Artificial Intelligence]
-location: Singapore
+education:
+  [
+    "Singapore Institute of Technology (SIT)",
+    "Republic Polytechnic"
+  ]
+education_stage: Year 1 student in BSc (Hons) in Applied Computing(Fintech)
+fields_of_interests:
+  [
+    "Data Analytics",
+    "Data Engineering",
+    "Artificial Intelligence"
+  ]
+located_in: Singapore
 
-Fun Facts:
-* I'm a collecting freak (Physical Games, Music, Consoles)
-* I listen to a lot of City Pop and Vocal jazz
-* Hobbies = [Gaming, Reading, Tinkering]
+fun_facts: ["I'm a collecting freak (Physical Games, Music, Consoles), and I listen to a lot of City Pop and Vocal jazz"]
+hobbies = ["Gaming", "Reading", "Tinkering"]
 
 ```
 
