@@ -18,7 +18,11 @@ fields_of_interests:
   ]
 located_in: Singapore
 
-fun_facts: ["I'm a collecting freak (Physical Games, Music, Consoles), and I listen to a lot of City Pop and Vocal jazz"]
+fun_facts:
+  [
+    "I'm a collecting freak (Physical Games, Music, Consoles)",
+    "I listen to a lot of City Pop and Vocal jazz"
+  ]
 hobbies: ["Gaming", "Reading", "Tinkering"]
 
 ```
